@@ -1,4 +1,4 @@
-# ♻️ E-COL — Web3 Recycling Infrastructure
+## E-COL — Web3 Recycling Infrastructure
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Daniellabarbosa/e-col/main/banner-ecolapp.png" width="100%" />
@@ -14,7 +14,7 @@
 
 ---
 
-# 🌱 Sobre o Projeto
+## Sobre o Projeto
 
 O E-COL é uma infraestrutura Web3 de reciclagem construída na blockchain Solana.
 
@@ -31,7 +31,7 @@ A plataforma conecta:
 
 ---
 
-# 🚨 Problema
+## Problema
 
 O sistema atual de reciclagem enfrenta diversos desafios:
 
@@ -45,7 +45,7 @@ Milhões de resíduos recicláveis deixam de gerar impacto econômico e ambienta
 
 ---
 
-# 💡 Solução
+##  Solução
 
 O E-COL transforma resíduos recicláveis em registros digitais verificáveis na blockchain.
 
@@ -60,9 +60,9 @@ Fluxo da solução:
 
 ---
 
-# ⛓️ Arquitetura Blockchain
+## Arquitetura Blockchain
 
-## Solana Network
+### Solana Network
 
 A infraestrutura utiliza Solana devido a:
 
@@ -73,7 +73,7 @@ A infraestrutura utiliza Solana devido a:
 
 ---
 
-## Smart Contracts
+### Smart Contracts
 
 Os smart contracts são responsáveis por:
 
@@ -85,7 +85,7 @@ Os smart contracts são responsáveis por:
 
 ---
 
-## Wallet Integration
+### Wallet Integration
 
 Arquitetura preparada para:
 
@@ -97,7 +97,7 @@ Arquitetura preparada para:
 
 ---
 
-# 📦 RWAs (Real World Assets)
+## RWAs (Real World Assets)
 
 Cada embalagem reciclável pode se tornar:
 
@@ -110,9 +110,9 @@ O E-COL conecta resíduos físicos à blockchain através da tokenização de at
 
 ---
 
-# ⚙️ Stack Técnica
+## Stack Técnica
 
-## Mobile Application
+### Mobile Application
 
 - React Native
 - Expo
@@ -120,7 +120,7 @@ O E-COL conecta resíduos físicos à blockchain através da tokenização de at
 
 ---
 
-## Web3 Layer
+### Web3 Layer
 
 - @solana/web3.js
 - SPL Tokens
@@ -128,7 +128,7 @@ O E-COL conecta resíduos físicos à blockchain através da tokenização de at
 
 ---
 
-## Blockchain
+### Blockchain
 
 - Solana
 - Smart Contracts
@@ -137,20 +137,20 @@ O E-COL conecta resíduos físicos à blockchain através da tokenização de at
 
 ---
 
-## Frontend Web
+### Frontend Web
 
 - React
 - TailwindCSS
 
 ---
 
-## Deploy
+### Deploy
 
 - Vercel
 
 ---
 
-# 📲 Funcionalidades
+## Funcionalidades
 
 - Scanner de embalagens
 - Sistema de recompensas
@@ -162,7 +162,7 @@ O E-COL conecta resíduos físicos à blockchain através da tokenização de at
 
 ---
 
-# 🔄 Fluxo da Aplicação
+## Fluxo da Aplicação
 
 ```mermaid
 graph TD
@@ -175,21 +175,21 @@ E --> F[Distribuição de tokens]
 
 ---
 
-# 🚀 Como Rodar o Projeto
+## Como Rodar o Projeto
 
-## Instalar dependências
+### Instalar dependências
 
 ```bash
 npm install
 ```
 
-## Rodar aplicação Expo
+### Rodar aplicação Expo
 
 ```bash
 npx expo start
 ```
 
-## Limpar cache do Expo
+### Limpar cache do Expo
 
 ```bash
 npx expo start -c
@@ -197,13 +197,13 @@ npx expo start -c
 
 ---
 
-# 🌍 Visão do Projeto
+## Visão do Projeto
 
 Construir uma infraestrutura global de reciclagem baseada em blockchain, onde resíduos recicláveis se tornam ativos ambientais digitais rastreáveis.
 
 ---
 
-# 🏆 Categorias do Hackathon
+## Categorias do Hackathon
 
 - Solana Ecosystem
 - Web3 Infrastructure
@@ -215,9 +215,9 @@ Construir uma infraestrutura global de reciclagem baseada em blockchain, onde re
 
 ---
 
-# 👥 Equipe
+## Equipe
 
-### E-COL Team 🚀
+### E-COL Team 
 
 Projeto desenvolvido para hackathon focado em:
 - Blockchain
@@ -228,6 +228,6 @@ Projeto desenvolvido para hackathon focado em:
 
 ---
 
-# 📄 Licença
+### 📄 Licença
 
 MIT License
