@@ -1,8 +1,7 @@
-## E-COL — Web3 Recycling Infrastructure
+## ECOLFI — Web3 Recycling Infrastructure
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Daniellabarbosa/e-col/main/banner-ecolapp.png" width="100%" />
-</p>
+<img width="1672" height="941" alt="banner_ecolfi_app" src="https://github.com/user-attachments/assets/7e385350-4ab6-49c0-b3ad-012244352078" />
+
 
 <p align="center">
   <b>Transformando embalagens recicláveis em ativos digitais rastreáveis na blockchain Solana.</b>
@@ -16,7 +15,7 @@
 
 ## Sobre o Projeto
 
-O E-COL é uma infraestrutura Web3 de reciclagem construída na blockchain Solana.
+O ECOLFI é uma infraestrutura Web3 de reciclagem construída na blockchain Solana.
 
 O projeto transforma embalagens recicláveis em ativos digitais rastreáveis (RWAs), criando um ecossistema transparente de reciclagem com incentivos tokenizados.
 
@@ -47,7 +46,7 @@ Milhões de resíduos recicláveis deixam de gerar impacto econômico e ambienta
 
 ##  Solução
 
-O E-COL transforma resíduos recicláveis em registros digitais verificáveis na blockchain.
+O ECOLFI transforma resíduos recicláveis em registros digitais verificáveis na blockchain.
 
 Fluxo da solução:
 
@@ -106,7 +105,7 @@ Cada embalagem reciclável pode se tornar:
 - Um registro ambiental imutável
 - Um evento tokenizado
 
-O E-COL conecta resíduos físicos à blockchain através da tokenização de ativos reais.
+O ECOLFI conecta resíduos físicos à blockchain através da tokenização de ativos reais.
 
 ---
 
@@ -217,7 +216,7 @@ Construir uma infraestrutura global de reciclagem baseada em blockchain, onde re
 
 ## Equipe
 
-### E-COL Team 
+### ECOLFI Team 
 
 Projeto desenvolvido para hackathon focado em:
 - Blockchain
